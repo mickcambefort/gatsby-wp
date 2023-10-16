@@ -31,7 +31,7 @@ const data = {
     {
       id: 1,
       navItemType: "Link",
-      href: "#!",
+      href: "/pricing",
       text: "Pricing",
     },
     {

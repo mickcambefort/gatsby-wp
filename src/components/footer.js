@@ -76,7 +76,7 @@ const data = {
     },
     {
       id: 1,
-      href: "#!",
+      href: "/pricing",
       text: "Pricing",
     },
     {
